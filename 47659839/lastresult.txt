@@ -1,0 +1,424 @@
+
+
+	
+		 	
+					
+				id
+			
+					
+				date time
+			
+					
+				Quarter:
+			
+					
+				Filled in by 
+			
+					
+				Date and time Incident Received by PRC
+			
+					
+					Attack Number: 
+			
+					
+				Year:
+			
+					
+				Month:
+			
+					
+				Date:
+			
+					
+				Ship's Name: 
+			
+					
+				Managed by Countries:
+			
+					
+				Type of Vessel :
+			
+					
+				Narrations:
+			
+					
+				
+			
+			
+
+
+		 
+			
+				
+									
+			
+		 
+					
+				
+					
+						
+							No records						
+					
+				
+			
+			
+			1511		
+			
+			2017-12-04		
+			
+			Q4		
+			
+			Paneer		
+			
+			04/12/2017 - 1530 LT		
+			
+			158-17		
+			
+			2017		
+			
+			Oct		
+			
+					
+			
+			HR Endeavour		
+			
+			Germany		
+			
+			General Cargo		
+			
+			25.10.2017: 2012 UTC: Posn: 01:03.7N – 103:41.5E, Around 1.8nm NW of Pulau Cula, Indonesia.
+Alert crew onboard a general cargo ship underway, noticed three to four persons onboard a small wooden craft closing in to the stern of the ship. Alarm raised and crew mustered. Seeing the alerted crew, the boat moved away. Master reported the attempted boarding to Singapore VTIS via VHF.		
+			
+			
+
+ View
+		
+	
+
+			
+			1510		
+			
+			2017-12-04		
+			
+			Q4		
+			
+			Tana		
+			
+			04/12/2017 - 0745 LT		
+			
+			157-17		
+			
+			2017		
+			
+			Dec		
+			
+					
+			
+			CPO Norfolk		
+			
+			Germany		
+			
+			Container		
+			
+			03.12.2017: 1610 UTC: Posn: 14:33.72N – 120:55.25E, Manila Quarantine Anchorage, Philippines.
+During routine security rounds, crew onboard an anchored container ship noticed the securing cables for the forward lifesaving appliances cut and the liferafts and immersion suites missing. On inspecting the area, it was noticed that the robbers had boarded the vessel via the anchor chain and hawse pipe. VTS Manila and the coast guard carried out a security search around the vessel.		
+			
+			
+
+ View
+		
+	
+
+			
+			1509		
+			
+			2017-11-27		
+			
+			Q4		
+			
+			Paneer		
+			
+			27/11/2017 - 1701 LT		
+			
+			156-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			SKS Doyles		
+			
+			Norway		
+			
+			Product Tanker		
+			
+			26.11.2017: 1700 – 2100 UTC: Posn: 01:25.4N – 104:41.4E, Around 13nm NNE of Tg. Berakit, Pulau Bintan, Indonesia.
+During routine rounds, duty crew onboard an anchored product tanker noticed two damaged padlocks and raised the alarm. Crew mustered and a search was carried out. Nothing reported stolen. Authorities informed.
+		
+			
+			
+
+ View
+		
+	
+
+			
+			1508		
+			
+			2017-11-22		
+			
+			Q4		
+			
+			Harisuddin		
+			
+			22/11/2017 - 2014 LT		
+			
+			155-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Nordmosel		
+			
+			Germany		
+			
+			Bulk Carrier		
+			
+			20.11.2017: 1930 UTC: Posn: 01:02.4N – 103:39.2E, Around 6nm South of Pulau Nipah, Indonesia.
+An unlit boat approached a bulk carrier underway and came alongside the STBD quarter. Crew on deck watch noticed the boat and informed the duty officer. Deck lights and search lights switched on and directed towards the boat. Duty officer noticed around eight robbers in the boat. A ladder was seen hooked onto the ships rail. Alarm raised and crew mustered. Seeing the alerted crew the robbers unhooked the ladder and moved away. VTIS informed. Once the vessel arrived at the anchorage, the Singapore Coast Guard boarded the vessel for investigation.		
+			
+			
+
+ View
+		
+	
+
+			
+			1507		
+			
+			2017-11-22		
+			
+			Q4		
+			
+			Mohamad Hafizin Jamil		
+			
+			22/11/2017 - 2231 LT		
+			
+			SUS-009		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Triton Swan		
+			
+			Hong Kong		
+			
+			Bulk Carrier		
+			
+			This incident will not be included in the IMB statistics.
+
+21.11.2017: 2120 UTC: Posn: 05:13N – 004:05W, Abidjan Anchorage, Ivory Coast.
+While at anchor, duty officer onboard a bulk carrier observed a boat approaching from astern towards the vessel. Alarm raised and all crew mustered on bridge. The boat came alongside and moved slowly towards mid ship and finally stayed alongside near the bow. Around 13 to 15 persons were sighted on the boat. Port control was notified. Due to a passing squall and heavy rain, the boat moved away from the bow but maintained her position around 20-30 metres from the vessel. After around 30 minutes, the boat moved away from the vessel.
+		
+			
+			
+
+ View
+		
+	
+
+			
+			1506		
+			
+			2017-11-22		
+			
+			Q4		
+			
+			Tana		
+			
+			22/11/2017 - 1205 LT		
+			
+			154-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Strauss		
+			
+			Germany		
+			
+			Container		
+			
+			22.11.2017: 0231 UTC: Posn: 03:17.5N - 006:52.5E, Around 66nm SSW of Bonny Island, Nigeria.
+A speed boat approached and chased a container ship underway. Alarm raised, evasive manoeuvres commenced, SSAS activated, local authorities notified and crew mustered in the citadel. A Nigerian navy vessel was dispatched to assist the container ship, however after around 20 minutes, the speed boat aborted the chase and moved away. Vessel and crew safe.		
+			
+			
+
+ View
+		
+	
+
+			
+			1505		
+			
+			2017-11-22		
+			
+			Q4		
+			
+			Tana		
+			
+			22/11/2017 - 0409 LT		
+			
+			153-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Great Star		
+			
+			UAE		
+			
+			Product Tanker		
+			
+			21.11.2017: 1830 UTC: Posn: 14:03.25N - 048:48.92E, Around 33nm SW of Mukalla, Yemen.
+Armed persons in a speed boat chased and fired upon a product tanker underway. Alarm raised, speed increased, evasive manoeuvres commenced and all non-essential crew mustered in the engine room. Due to the hardening measures and the presence of the AST, the boarding was averted. All crew safe.		
+			
+			
+
+ View
+		
+	
+
+			
+			1504		
+			
+			2017-11-21		
+			
+			Q4		
+			
+			Muhammad Farhan Bin Noor Hazman		
+			
+			21/11/2017 - 2347 LT		
+			
+			152-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Name Withheld		
+			
+			Greece		
+			
+			Chemical Tanker		
+			
+			21.11.2017: 0050 UTC: Posn: 06:19.45N - 003:11.68E, Lagos Secure Anchorage Area, Nigeria.
+Ten robbers in two boats attempted to board an anchored product tanker. Duty crew noticed the robbers and raised the alarm. Seeing the alert crew, the robbers aborted the attempted boarding. Incident reported to local agent.		
+			
+			
+
+ View
+		
+	
+
+			
+			1503		
+			
+			2017-11-20		
+			
+			Q4		
+			
+			Mohamad Hafizin Jamil		
+			
+			20/11/2017 - 1838 LT		
+			
+			151-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Sabine		
+			
+			Singapore		
+			
+			Crude Oil Tanker		
+			
+			16.11.2017: 0945 UTC: Posn: 03:30.6N – 006:45.9E, Around 56nm SSW of Bonny Island, Nigeria.
+Seven pirates in a speed boat chased a tanker underway. As the boat closed in to 300 meters the crew noticed a long ladder. Alarm raised, Master increased speed, commenced evasive manoeuvres and the crew mustered in a safe place. After chasing the tanker for a while the boat stopped its approach and then once again attempted to close in to the ship to board. Due to the hardening measures employed by the tanker the boat aborted and moved away. Nigerian Navy HQ notified.		
+			
+			
+
+ View
+		
+	
+
+			
+			1502		
+			
+			2017-11-20		
+			
+			Q4		
+			
+			Paneer		
+			
+			18/11/2017 - 2254 LT		
+			
+			150-17		
+			
+			2017		
+			
+			Nov		
+			
+					
+			
+			Boraq		
+			
+			UAE		
+			
+			Product Tanker		
+			
+			17.11.2017: 2130 UTC: Posn: 01:25.64N - 104:35.29E, Around 12nm North of Tg. Berakit, Pulau Bintan, Indonesia.
+Three robbers armed with pistols and knives boarded an anchored product tanker. Duty crew on routine rounds noticed the robbers. Alarm raised and crew mustered. Hearing the alarm and seeing the crew alertness, the robbers escaped with ship’s properties. A search was carried out. Incident report to MPA Singapore.
+		
+			
+			
+
+ View
+		
+	
+		 	
+						
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
